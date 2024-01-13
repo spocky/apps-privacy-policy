@@ -9,8 +9,8 @@ Application usage information and crash reports are tracked using Google Firebas
 You can always opt-out from those services in the settings at anytime. But those statistics and reports are very useful to us in order to provide top quality applications.
 
 ## Data deletion
-Once again (please read the paragraph above), we _do not_ store any user data. Only the third party services mentionned above have access to anonymized data.
-Should you ever want us to request those third party services to delete your anonymized user data, reach out to the app's page on Google Play to find our contact email and send us a message with subject "please delete my user data".
+Again (please read the paragraph above), we _do not_ store any user data. Only the third-party services mentionned above have access to anonymized data.
+Should you ever want us to request those third party services to delete your anonymized user data, reach out to the app's page on Google Play to find our contact email and send us a message with subject "please delete my user data". Then if these third party services honor the request, hopefully all your anonymized data should be deleted :)
 
 ## Emails
 We may send you email regarding our service (such as invoices) or which you have specifically requested (such as contact to our support).
