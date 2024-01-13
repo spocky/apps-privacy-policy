@@ -1,4 +1,4 @@
-# Privacy Policy
+# Privacy Policy for Spocky's apps
 
 This page is used to inform our visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
@@ -7,6 +7,10 @@ If you choose to use our Service, then you agree to the collection and use of in
 No personally identifiable information is stored on your device or sent back regarding your use of our applications.
 Application usage information and crash reports are tracked using Google Firebase, in accordance with their [Privacy Policy](https://policies.google.com/privacy), to allow us to determine which features are most popular, how they are being used, and how we can improve the applications.
 You can always opt-out from those services in the settings at anytime. But those statistics and reports are very useful to us in order to provide top quality applications.
+
+## Data deletion
+Once again (please read the paragraph above), we _do not_ store any user data. Only the third party services mentionned above have access to anonymized data.
+Should you ever want us to request those third party services to delete your anonymized user data, reach out to the app's page on Google Play to find our contact email and send us a message with subject "please delete my user data".
 
 ## Emails
 We may send you email regarding our service (such as invoices) or which you have specifically requested (such as contact to our support).
